@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+method_cache/__init__.py
+method_cache.egg-info/PKG-INFO
+method_cache.egg-info/SOURCES.txt
+method_cache.egg-info/dependency_links.txt
+method_cache.egg-info/entry_points.txt
+method_cache.egg-info/not-zip-safe
+method_cache.egg-info/top_level.txt
